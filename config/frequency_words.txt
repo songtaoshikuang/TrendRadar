@@ -68,10 +68,6 @@ deepmind
 
 chatgpt
 openai
-sora
-
-claude
-Anthropic
 
 iphone
 ipad
@@ -93,21 +89,6 @@ ai
 日本
 韩国
 
-芯片
-光刻机
-
-科技
-
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
+小米
+小米17
+澎湃os
