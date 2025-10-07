@@ -23,7 +23,10 @@ openai
 sora
 
 iphone
-+手机
+小米
+荣耀
+一加
++评测
 
 ipad
 ipad mini
@@ -31,15 +34,6 @@ ipad mini
 
 ios
 +系统
-
-小米
-+手机
-
-荣耀
-+手机
-
-一加
-+手机
 
 Android
 +系统
