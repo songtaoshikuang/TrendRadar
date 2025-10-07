@@ -2,47 +2,50 @@
 DJI
 pocket
 
-宇树
-王兴兴
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
+tiktok
+周受资
 
 特斯拉
 马斯克
 
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
+甲骨文
+oracle
+甲骨文云
++羊毛
 
 谷歌
 google
 gemini
-deepmind
++羊毛
 
 chatgpt
 openai
 sora
 
-claude
-Anthropic
-
 iphone
-ipad
-mac
-ios
++手机
 
-安卓
+ipad
+ipad mini
++评测
+
+ios
++系统
+
+小米
++手机
+
+荣耀
++手机
+
+一加
++手机
+
 Android
++系统
+
+Android
++评测
 
 美国
 日本
@@ -53,14 +56,6 @@ Android
 五眼联盟
 G7
 G20
-
-芯片
-光刻机
-
-水电站
-雅鲁藏布江
-
-新质生产力
 
 NBA
 常规赛
