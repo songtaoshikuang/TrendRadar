@@ -43,6 +43,12 @@ iphone
 小米
 荣耀
 一加
++配置
+
+iphone
+小米
+荣耀
+一加
 +性能
 
 iphone
@@ -60,6 +66,10 @@ iphone
 ipad
 ipad mini
 +评测
+
+ipad
+ipad mini
++配置
 
 ipad
 ipad mini
