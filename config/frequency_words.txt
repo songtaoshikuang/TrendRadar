@@ -21,6 +21,17 @@ gemini
 chatgpt
 openai
 sora
++教程
+
+chatgpt
+openai
+sora
++教学
+
+chatgpt
+openai
+sora
++羊毛
 
 iphone
 小米
@@ -28,9 +39,35 @@ iphone
 一加
 +评测
 
+iphone
+小米
+荣耀
+一加
++性能
+
+iphone
+小米
+荣耀
+一加
++测评
+
+iphone
+小米
+荣耀
+一加
++对比
+
 ipad
 ipad mini
 +评测
+
+ipad
+ipad mini
++对比
+
+ipad
+ipad mini
++测评
 
 ios
 +系统
@@ -88,3 +125,9 @@ NBA
 购物党
 油猴
 tampermonkey
+
+医保
+医疗保险
+
+养老
+养老保险
